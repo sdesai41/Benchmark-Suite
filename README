@@ -1,1 +1,1 @@
-
+Every Application is in its own folder and is broken up into a main file and an utilities file. The main file contains the core logic of the application while the utilities file contians the other functions and header files necessary for execution. There will also be a samplen input provided in each folder.  
